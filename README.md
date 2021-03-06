@@ -43,10 +43,6 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
-### Edit README
-
-
-
 *This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template.*
 
 
