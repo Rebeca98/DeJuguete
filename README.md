@@ -3,7 +3,7 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 ## ABSOLUTE ESSENTIALS
 
-*Follow these instructions and you will have a published bookdown book in less than five minutes. If you have any difficulties or have feedback of any kind, please file an issue.*
+*Follow these instructions and you will have a published bookdown book in less than five minutes. If you have any difficulties or have feedback of any kind, please file an issue*
 
 ### Copy this template
 
@@ -42,10 +42,6 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 - [ ] 4. If it looks good, commit and push all changed files to GitHub. 
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book online.)
-
-### Edit README
-
-
 
 *This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template.*
 
