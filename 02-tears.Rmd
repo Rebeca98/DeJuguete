@@ -1,2 +1,8 @@
-# Introduccion
+--- 
+title: "Prueba de jueguete "
+author: "Rebe:)"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
 
+# Introduccion
