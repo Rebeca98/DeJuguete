@@ -7,7 +7,7 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 ### Copy this template
 
-- [ ] 1. Click the green "Use this template" button above.  DO NOT FORK THE REPO.  Choose a descriptive name for your repo based on your content. (Unlike when you fork a repo, you get to choose the name. If you change your mind before you do any work, delete your new repo and start over.)
+- [ ] 1. Click the green "Use this template" button above.  DO NOT FORK THE REPO.  Choose a descriptive name for your repo based on your content. (Unlike when you fork a repo, you get o choose the name. If you change your mind before you do any work, delete your new repo and start over.)
 
 ### Set up GitHub Pages
 
