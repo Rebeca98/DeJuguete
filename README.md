@@ -15,9 +15,7 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 - [ ] 2. Click the gear button near "About" on the home page of the repo and paste your book URL into the **Website** field that appears on the right.
 
-### Clone the repo
 
-- [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git* in RStudio.
 
 ### Edit some key files
 
