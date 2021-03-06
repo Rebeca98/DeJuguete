@@ -1,6 +1,6 @@
 --- 
 title: "Prueba de jueguete "
-author: "Rebe:)"
+author: "Reb:)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
